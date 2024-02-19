@@ -3,9 +3,9 @@
         {
             "id": 1, 
             "name": "LineageOS 20 - UNOFFICIAL STABLE | Android 13",
-            "RealeseDate": "",
+            "RealeseDate": "15/06/23",
             "author": "Ben",
-            "authorUrl": "",
+            "authorUrl": "https://paypal.me/bengris32",
             "category": "A13",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/los.jpg",
             "downloadUrl": "https://github.com/bengris32/releases/releases/tag/3.0"
