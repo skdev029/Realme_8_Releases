@@ -2,12 +2,12 @@
     "roms": [
         {
             "id": 1, 
-            "name": "",
+            "name": "LineageOS 20 - UNOFFICIAL STABLE | Android 13",
             "RealeseDate": "",
-            "author": "",
+            "author": "Ben",
             "authorUrl": "",
-            "category": "",
-            "thumbnailUrl": "",
+            "category": "A13",
+            "thumbnailUrl": "/images/los.jpg",
             "downloadUrl": ""
         }
     ]
