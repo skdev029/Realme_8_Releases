@@ -9,6 +9,16 @@
             "category": "A13",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/los.jpg",
             "downloadUrl": "https://github.com/bengris32/releases/releases/tag/3.0"
+        },
+        {
+            "id": 2, 
+            "name": "SuperiorOS-Thirteen - UNOFFICIAL | Android 13 ",
+            "RealeseDate": "15/06/23",
+            "author": "SG",
+            "authorUrl": "",
+            "category": "A13",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/superioros.jpg",
+            "downloadUrl": ""
         }
     ]
 }
