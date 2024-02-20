@@ -1,7 +1,7 @@
 {
     "roms": [
         {
-            "id": 1, 
+            "id": 1,
             "name": "LineageOS 21 - UNOFFICIAL STABLE | Android 14",
             "RealeseDate": "19/02/24",
             "author": "Fastledx",
@@ -11,23 +11,63 @@
             "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/Fastledx_los_21"
         },
         {
-            "id": 2, 
+            "id": 2,
+            "name": "VoltageOS v3.0 - UNOFFICIAL | Android 14",
+            "RealeseDate": "07/01/24",
+            "author": "sanicxt",
+            "authorUrl": "https://t.me/sanicxt",
+            "category": "A14",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/vos.webp",
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/sanic_vos_v14_1"
+        },
+        {
+            "id": 3,
+            "name": "PixelOS 13.0 - UNOFFICIAL | Android 13",
+            "RealeseDate": "26/12/23",
+            "author": "Intro333",
+            "authorUrl": "https://t.me/Intro333",
+            "category": "A13",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/pos.webp",
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/intro_pos13"
+        },
+        {
+            "id": 4,
+            "name": "Bliss V16.9.3  - UNOFFICIAL | Android 13 ",
+            "RealeseDate": "11/12/23",
+            "author": "alpha_ripaaah",
+            "authorUrl": "https://t.me/alpha_ripaaah",
+            "category": "A13",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/bliss.webp",
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/alpha_bliss13"
+        },
+        {
+            "id": 5,
+            "name": "Spark 13.9  - UNOFFICIAL | Android 13 EOL ",
+            "RealeseDate": "07/12/23",
+            "author": "sukuna_me",
+            "authorUrl": "https://t.me/sukuna_me",
+            "category": "A13",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/spark.webp",
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/eren_spark13"
+        },
+        {
+            "id": 6,
             "name": "LineageOS 20 - UNOFFICIAL STABLE | Android 13",
             "RealeseDate": "15/06/23",
             "author": "Ben",
             "authorUrl": "https://paypal.me/bengris32",
             "category": "A13",
-            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/los.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/los.webp",
             "downloadUrl": "https://github.com/bengris32/releases/releases/tag/3.0"
         },
         {
-            "id": 3, 
+            "id": 7,
             "name": "SuperiorOS-Thirteen - UNOFFICIAL | Android 13 ",
             "RealeseDate": "02/12/23",
             "author": "SG",
             "authorUrl": "https://t.me/SGtriangle",
             "category": "A13",
-            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/superioros.jpg",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/superioros.webp",
             "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/Sg_SOSa13"
         }
     ]
