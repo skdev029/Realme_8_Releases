@@ -1,0 +1,85 @@
+{
+    "files": [
+        {
+            "id": 10,
+            "name": "A.19_STOCK_ROM_DECRYPTED_GLOBAL",  
+            "author": "",                                                                                                          
+            "authorUrl": "",
+            "category": "firmware",
+            "thumbnailUrl": "https://github.com/skdev029/Realme_8_Releases/blob/main/_github_img/Realme-8-4G.jpg",
+            "downloadUrl": "https://drive.google.com/file/d/1Iy2hwZ0mHQtpHgpyRDRHMZv13FTTvups/view?usp=share_link"
+        },
+        {
+            "id": 9,
+            "name": "A.21_STOCK_ROM_DECRYPTED_GLOBAL",  
+            "author": "",                                                                                                          
+            "authorUrl": "",
+            "category": "firmware",
+            "thumbnailUrl": "https://github.com/skdev029/Realme_8_Releases/blob/main/_github_img/Realme-8-4G.jpg",
+            "downloadUrl": "https://drive.google.com/file/d/1p4hmVZmH7tbZmtR1-FOrlpsi4233MpJ-/view?usp=share_link"
+        },
+        {
+            "id": 8,
+            "name": "A.24_STOCK_ROM_DECRYPTED_INDIAN",  
+            "author": "",                                                                                                          
+            "authorUrl": "",
+            "category": "firmware",
+            "thumbnailUrl": "https://github.com/skdev029/Realme_8_Releases/blob/main/_github_img/Realme-8-4G.jpg",
+            "downloadUrl": "https://drive.google.com/file/d/1OvT-YYBdJMBmV87C0f1ThcCKmvKvqvi7/view?usp=share_link"
+        },
+        {
+            "id": 7,
+            "name": "A.25_STOCK_ROM_DECRYPTED_INDIAN",  
+            "author": "",                                                                                                          
+            "authorUrl": "",
+            "category": "firmware",
+            "thumbnailUrl": "https://github.com/skdev029/Realme_8_Releases/blob/main/_github_img/Realme-8-4G.jpg",
+            "downloadUrl": "https://drive.google.com/file/d/1kKLQbIwybgW8aPmaIAikp2nn_sfaR67R/view?usp=share_link"
+        },
+        {
+            "id": 6,
+            "name": "C.05_STOCK_ROM_DECRYPTED_GLOBAL",  
+            "author": "",                                                                                                          
+            "authorUrl": "",
+            "category": "firmware",
+            "thumbnailUrl": "https://github.com/skdev029/Realme_8_Releases/blob/main/_github_img/Realme-8-4G.jpg",
+            "downloadUrl": "https://drive.google.com/file/d/12OJ8qD9XoFEuC3oo70sBlBGFfQdbtHyw/view?usp=share_link"
+        },
+        {
+            "id": 4,
+            "name": "C.09_STOCK_ROM_DECRYPTED_INDIAN",  
+            "author": "",                                                                                                          
+            "authorUrl": "",
+            "category": "firmware",
+            "thumbnailUrl": "https://github.com/skdev029/Realme_8_Releases/blob/main/_github_img/Realme-8-4G.jpg",
+            "downloadUrl": "https://drive.google.com/file/d/1h0KaVWthBtwm4SJHPpRGLJfLPcB0XmzF/view?usp=share_link"
+        },
+        {
+            "id": 3,
+            "name": "C.11_STOCK_ROM_DECRYPTED_GLOBAL",  
+            "author": "",                                                                                                          
+            "authorUrl": "",
+            "category": "A13",
+            "thumbnailUrl": "https://github.com/skdev029/Realme_8_Releases/blob/main/_github_img/Realme-8-4G.jpg",
+            "downloadUrl": "https://drive.google.com/file/d/1tHij6Bz-QU4LYm3L5QijmPab3YQRDXC9/view?usp=share_link"
+        },
+        {
+            "id": 2,
+            "name": "C.12_STOCK_ROM_DECRYPTED_GLOBAL",  
+            "author": "",                                                                                                          
+            "authorUrl": "",
+            "category": "firmware",
+            "thumbnailUrl": "https://github.com/skdev029/Realme_8_Releases/blob/main/_github_img/Realme-8-4G.jpg",
+            "downloadUrl": "https://drive.google.com/file/d/1z4FVCo0J5u3VPgT7-kpKKvjdylzxJpi1/view?usp=share_link"
+        },
+        {
+            "id": 1,
+            "name": "C11 Thailand Version",  
+            "author": "",                                                                                                          
+            "authorUrl": "",
+            "category": "firmware",
+            "thumbnailUrl": "https://github.com/skdev029/Realme_8_Releases/blob/main/_github_img/Realme-8-4G.jpg",
+            "downloadUrl": "https://drive.google.com/file/d/192KboBbW1eXzb6DWVlGAkGE-PEcgnHBJ/view?usp=sharing"
+        }
+    ]
+}
