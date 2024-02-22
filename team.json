@@ -1,0 +1,62 @@
+{
+    "team": [
+        {
+            "name": "Skdev",
+            "role": "Web Developer",
+            "picture": "https://avatars.githubusercontent.com/u/87798342?v=4",
+            "social": {
+                "telegram": "https://t.me/skdev1"
+            }
+        },
+        {
+            "name": "Ben",
+            "role": "R8 Source Maintainer",
+            "picture": "",
+            "social": {
+                "paypal": "https://paypal.me/bengris32"
+            }
+        },
+        {
+            "name": "HowWof",
+            "role": "Maintainer",
+            "picture": "",
+            "social": {
+                "telegram": "https://t.me/HowWof"
+            }
+        },
+        {
+            "name": "Vald",
+            "role": "Maintainer",
+            "picture": "https://avatars.githubusercontent.com/u/78297186?v=4",
+            "social": {
+                "gitlab": "https://gitlab.com/maksimvlad7",
+                "telegram": "https://t.me/vlad_zaza",
+                "github": "https://github.com/Vlad55432"
+            }
+        },
+        {
+            "name": "Eren",
+            "role": "Maintainer",
+            "picture": "/res/img/devs/eren.jpg",
+            "social": {
+                "telegram": "https://t.me/sukuna_me"
+            }
+        },
+        {
+            "name": "Blood",
+            "role": "Maintainer",
+            "picture": "/res/img/devs/blood.png",
+            "social": {
+                "telegram": "https://t.me/BloodCorruption"
+            }
+        },
+        {
+            "name": "Sanic",
+            "role": "Maintainer",
+            "picture": "/res/img/devs/sanic.jpg",
+            "social": {
+                "telegram": "https://t.me/sanicxt"
+            }
+        }
+    ]
+}
