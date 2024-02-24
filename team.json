@@ -11,7 +11,7 @@
         {
             "name": "Ben",
             "role": "R8 Source Maintainer",
-            "picture": "",
+            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/Ben.jpg",
             "social": {
                 "paypal": "https://paypal.me/bengris32"
             }
@@ -19,7 +19,7 @@
         {
             "name": "HowWof",
             "role": "Maintainer",
-            "picture": "",
+            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/HowWof.jpg",
             "social": {
                 "telegram": "https://t.me/HowWof"
             }
@@ -37,7 +37,7 @@
         {
             "name": "Eren",
             "role": "Maintainer",
-            "picture": "/res/img/devs/eren.jpg",
+            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/Eren.jpg",
             "social": {
                 "telegram": "https://t.me/sukuna_me"
             }
@@ -45,7 +45,7 @@
         {
             "name": "Blood",
             "role": "Maintainer",
-            "picture": "/res/img/devs/blood.png",
+            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/blood.jpg",
             "social": {
                 "telegram": "https://t.me/BloodCorruption"
             }
@@ -53,7 +53,7 @@
         {
             "name": "Sanic",
             "role": "Maintainer",
-            "picture": "/res/img/devs/sanic.jpg",
+            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/sanic.jpg",
             "social": {
                 "telegram": "https://t.me/sanicxt"
             }
