@@ -1,16 +1,6 @@
 {
     "roms": [
         {
-            "id": 1,
-            "name": "LineageOS 21 - UNOFFICIAL STABLE | Android 14",
-            "RealeseDate": "19/02/24",
-            "author": "Fastledx",
-            "authorUrl": "https://t.me/Fastledx",
-            "category": "A14",
-            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/los21.webp",
-            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/Fastledx_los_21"
-        },
-        {
             "id": 2,
             "name": "VoltageOS v3.0 - UNOFFICIAL | Android 14",
             "RealeseDate": "07/01/24",
