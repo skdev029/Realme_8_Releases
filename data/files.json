@@ -5,7 +5,7 @@
             "name": "Ashlooper Magisk/KernelSU module protecting you from bootloops caused by modules",
             "author": "",
             "authorUrl": "",
-            "category": "Module",
+            "category": "module",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/_github_img/Realme-8-4G.jpg",
             "downloadUrl": "https://github.com/RipperHybrid/AshLooper"
         },
@@ -14,7 +14,7 @@
             "name": "Realify",
             "author": "",
             "authorUrl": "",
-            "category": "Module",
+            "category": "module",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/_github_img/Realme-8-4G.jpg",
             "downloadUrl": "https://github.com/bengris32/realify"
         },
