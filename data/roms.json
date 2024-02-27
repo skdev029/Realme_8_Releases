@@ -1,5 +1,17 @@
 {
     "roms": [
+       {
+            "id": 1,
+            "name": "CrDroid 10.2 - UNOFFICIAL | Android 14 ",
+            "RealeseDate": "24/02/24",
+            "author": "Vlad",
+            "authorUrl": "https://t.me/vlad_zaza",
+            "category": "A14",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/cr14.webp",
+            "downloadUrl": "https://github.com/Vlad55432/releases/releases/tag/cr-20240222"
+        },
+        
+        
         {
             "id": 2,
             "name": "VoltageOS v3.0 - UNOFFICIAL | Android 14",
