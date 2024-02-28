@@ -1,5 +1,15 @@
 {
     "files": [
+      
+        {
+            "id": 13,
+            "name": "Rollback a24 ",
+            "author": "",
+            "authorUrl": "",
+            "category": "rollback",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/firmware/r.a24.webp",
+            "downloadUrl": "https://drive.google.com/file/d/11DPqLLFGAH8a_XRB-Pg-C1sLleObX9Av/view?usp=drivesdk"
+        },
         {
             "id": 12,
             "name": "Ashlooper Magisk/KernelSU module protecting you from bootloops caused by modules",
