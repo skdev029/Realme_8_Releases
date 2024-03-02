@@ -172,21 +172,11 @@
             "author": " ",
             "authorUrl": " ",
             "category": "A13",
-            "thumbnailUrl": " https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/pe+.webp ",
+            "thumbnailUrl": " https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/peplus.webp ",
             "downloadUrl": " ",
             "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/PixelExperience_Plus_nashc-13.0-20230820-0757-UNOFFICIAL.zip"
         },
-        {
-            "id": 2,
-            "name": " Leaf - UNOFFICIAL STABLE | Android 13",
-            "RealeseDate": "22/09/23",
-            "author": " ",
-            "authorUrl": " ",
-            "category": "A13",
-            "thumbnailUrl": " ",
-            "downloadUrl": " ",
-            "AltdownloadUrl": ""
-        },
+    
         {
             "id": 1,
             "name": "LineageOS 20 - UNOFFICIAL STABLE | Android 13 (Vanilla Version)",
