@@ -1,76 +1,202 @@
 {
     "roms": [
-       {
-            "id": 1,
+        {
+            "id": 18,
+            "name": "Afterlife V6.0 Greed - OFFICIAL(HOTFIX) | Android 13 (Vanilla Version)",
+            "RealeseDate": "24/02/24",
+            "author": "sukuna_me",
+            "authorUrl": "https://t.me/sukuna_me",
+            "category": "A13",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/al.webp",
+            "downloadUrl": "",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/AfterLife-V6.0-Greedy-OFFICIAL-nashc-20240224-Vanilla.zip"
+        },
+        {
+            "id": 17,
             "name": "CrDroid 10.2 - UNOFFICIAL | Android 14 ",
             "RealeseDate": "24/02/24",
             "author": "Vlad",
             "authorUrl": "https://t.me/vlad_zaza",
             "category": "A14",
-            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/cr14.webp",
-            "downloadUrl": "https://github.com/Vlad55432/releases/releases/tag/cr-20240222"
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/cr14.webp",
+            "downloadUrl": "https://github.com/Vlad55432/releases/releases/tag/cr-20240222",
+            "AltdownloadUrl": ""
         },
-        
-        
         {
-            "id": 2,
+            "id": 16,
             "name": "VoltageOS v3.0 - UNOFFICIAL | Android 14",
             "RealeseDate": "07/01/24",
             "author": "sanicxt",
             "authorUrl": "https://t.me/sanicxt",
             "category": "A14",
-            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/vos.webp",
-            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/sanic_vos_v14_1"
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/vos.webp",
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/sanic_vos_v14_1",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A14/voltage-3.0-nashc-20240107-0756-UNOFFICIAL.zip"
         },
         {
-            "id": 3,
+            "id": 15,
             "name": "PixelOS 13.0 - UNOFFICIAL | Android 13",
             "RealeseDate": "26/12/23",
             "author": "Intro333",
             "authorUrl": "https://t.me/Intro333",
             "category": "A13",
-            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/pos.webp",
-            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/intro_pos13"
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/pos.webp",
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/intro_pos13",
+            "AltdownloadUrl": ""
         },
         {
-            "id": 4,
-            "name": "Bliss V16.9.3  - UNOFFICIAL | Android 13 ",
+            "id": 14,
+            "name": "Bliss V16.9.3  - UNOFFICIAL | Android 13 (Vanilla Version) ",
             "RealeseDate": "11/12/23",
             "author": "alpha_ripaaah",
             "authorUrl": "https://t.me/alpha_ripaaah",
             "category": "A13",
-            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/bliss.webp",
-            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/alpha_bliss13"
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/bliss.webp",
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/alpha_bliss13",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/Bliss-v16.9.3-nashc-UNOFFICIAL-vanilla-20231211.zip"
         },
         {
-            "id": 5,
+            "id": 13,
             "name": "Spark 13.9  - UNOFFICIAL | Android 13 EOL ",
             "RealeseDate": "07/12/23",
             "author": "sukuna_me",
             "authorUrl": "https://t.me/sukuna_me",
             "category": "A13",
-            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/spark.webp",
-            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/eren_spark13"
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/spark.webp",
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/eren_spark13",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/Spark-13.9-Unofficial-nashc-20231205.zip"
+        },
+        {
+            "id": 12,
+            "name": "ANCIENT OS v7.4.1 - OFFICIAL | Android 13 (Gapps Version)",
+            "RealeseDate": "24/10/23",
+            "author": " sukuna_me",
+            "authorUrl": "https://t.me/sukuna_me",
+            "category": "A13",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/ac13.webp ",
+            "downloadUrl": " ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/AncientOS-13-TexasCake-v7.4.1-nashc-Silver-20231024-1632-GApps-Final.zip"
+        },
+        {
+            "id": 11,
+            "name": "VoltageOS v2.8 EOL - UNOFFICIAL | Android 13",
+            "RealeseDate": "20/10/23",
+            "author": " ",
+            "authorUrl": " ",
+            "category": "A13",
+            "thumbnailUrl": " https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/vos.webp",
+            "downloadUrl": " ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/voltage-2.8-EOL-nashc-20231020-1105-UNOFFICIAL.zip"
+        },
+        {
+            "id": 10,
+            "name": " CrDroid 9.9 - UNOFFICIAL STABLE | Android 13 | EOL",
+            "RealeseDate": "07/10/23",
+            "author": " ",
+            "authorUrl": " ",
+            "category": "A13",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/cr.webp ",
+            "downloadUrl": " ",
+            "AltdownloadUrl": ""
+        },
+        {
+            "id": 9,
+            "name": "Proton Plus - UNOFFICIAL STABLE | Android 13 (EOL) ",
+            "RealeseDate": "01/10/23",
+            "author": " ",
+            "authorUrl": " ",
+            "category": "A13",
+            "thumbnailUrl": " https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/pp.webp",
+            "downloadUrl": " ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/ProtonPlus-13.3-Final-nashc-COMMUNITY-Vanilla-20230928-210413.zip"
+        },
+        {
+            "id": 8,
+            "name": " CherishOS v4.12 - OFFICIAL | Android 13 (Gapps Version)",
+            "RealeseDate": "30/09/23",
+            "author": "sukuna_me",
+            "authorUrl": "https://t.me/sukuna_me",
+            "category": "A13",
+            "thumbnailUrl": " https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/cherish.webp",
+            "downloadUrl": " ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/Cherish-OS-v4.12-20230930-0239-nashc-OFFICIAL-GApps.zip"
+        },
+        {
+            "id": 7,
+            "name": " Superior Extended- UNOFFICIAL | Android 13",
+            "RealeseDate": "22/09/23",
+            "author": " ",
+            "authorUrl": " ",
+            "category": "A13",
+            "thumbnailUrl": "  https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/supext.webp",
+            "downloadUrl": " ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/SuperiorOS-EXTENDED-nashc-GAPPS-20230921-1752.zip"
         },
         {
             "id": 6,
-            "name": "LineageOS 20 - UNOFFICIAL STABLE | Android 13",
+            "name": " Project Blaze - UNOFFICIAL STABLE | Android 13",
+            "RealeseDate": "22/09/23",
+            "author": " ",
+            "authorUrl": " ",
+            "category": "A13",
+            "thumbnailUrl": "  https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/pb.webp",
+            "downloadUrl": " ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/ProjectBlaze-v2.9-nashc-20230914-2116-VANILLA-UNOFFICIAL.zip"
+        },
+        {
+            "id": 5,
+            "name": " Rising UI 1.4 UNOFFICIAL | Android 13",
+            "RealeseDate": "22/09/23",
+            "author": " ",
+            "authorUrl": " ",
+            "category": "A13",
+            "thumbnailUrl": " https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/rising.webp ",
+            "downloadUrl": " ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/risingOS-v1.4-Elysium-FINAL-202309061229-nashc-AOSP-COMMUNITY.zip"
+        },
+        {
+            "id": 4,
+            "name": " AlphaDroid 1.8  - UNOFFICIAL | Android 13",
+            "RealeseDate": "22/09/23",
+            "author": " sukuna_me",
+            "authorUrl": "https://t.me/sukuna_me",
+            "category": "A13",
+            "thumbnailUrl": " https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/alpha.webp ",
+            "downloadUrl": " ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/AlphaDroid-13.0-20230825-nashc-vanilla-v1.8.zip"
+        },
+        {
+            "id": 3,
+            "name": " Pixel Experience Plus - UNOFFICIAL STABLE | Android 13",
+            "RealeseDate": "22/09/23",
+            "author": " ",
+            "authorUrl": " ",
+            "category": "A13",
+            "thumbnailUrl": " https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/pp+.webp ",
+            "downloadUrl": " ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/PixelExperience_Plus_nashc-13.0-20230820-0757-UNOFFICIAL.zip"
+        },
+        {
+            "id": 2,
+            "name": " Leaf - UNOFFICIAL STABLE | Android 13",
+            "RealeseDate": "22/09/23",
+            "author": " ",
+            "authorUrl": " ",
+            "category": "A13",
+            "thumbnailUrl": " ",
+            "downloadUrl": " ",
+            "AltdownloadUrl": ""
+        },
+        {
+            "id": 1,
+            "name": "LineageOS 20 - UNOFFICIAL STABLE | Android 13 (Vanilla Version)",
             "RealeseDate": "15/06/23",
             "author": "Ben",
             "authorUrl": "https://paypal.me/bengris32",
             "category": "A13",
-            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/los.webp",
-            "downloadUrl": "https://github.com/bengris32/releases/releases/tag/3.0"
-        },
-        {
-            "id": 7,
-            "name": "SuperiorOS-Thirteen - UNOFFICIAL | Android 13 ",
-            "RealeseDate": "02/12/23",
-            "author": "SG",
-            "authorUrl": "https://t.me/SGtriangle",
-            "category": "A13",
-            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/superioros.webp",
-            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/Sg_SOSa13"
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/los.webp",
+            "downloadUrl": "https://github.com/bengris32/releases/releases/tag/3.0",
+            "AltdownloadUrl": ""
         }
     ]
 }
