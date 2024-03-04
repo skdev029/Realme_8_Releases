@@ -8,6 +8,15 @@
             "category": "Video",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/guide/guide.webp",
             "VideoUrl": "https://youtu.be/z_IcPVYlHvw"
+        },
+        {
+            "id": 2,
+            "name": "Install Custom Rom and Recovery | Realme 8 4G | | Spark OS | Orange Fox recovery |",
+            "author": "dableu",
+            "authorUrl": "https://youtube.com/@WDableu",
+            "category": "Video",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/guide/guide2.webp",
+            "VideoUrl": "https://youtu.be/-ob3_K_VHME?feature=shared"
         }
     ]
 }

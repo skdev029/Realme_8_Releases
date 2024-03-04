@@ -1,6 +1,17 @@
 {
     "roms": [
         {
+            "id": 19,
+            "name": "Realme UI 4.0 Debloated f.10",
+            "RealeseDate": "Unknown",
+            "author": "AshBorn",
+            "authorUrl": "https://t.me/Ripper_Hybrid",
+            "category": "Drui",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/Drui/Drui.webp",
+            "downloadUrl": "https://drive.google.com/file/d/1n2r0OH6K1eeMXOyTmM5QXLYXOeAsML9F/view?usp=sharing",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Debloated%20Firmware/RMX3085-F.10-Debloated-Indian.zip"
+        },
+        {
             "id": 18,
             "name": "Afterlife V6.0 Greed - OFFICIAL(HOTFIX) | Android 13 (Vanilla Version)",
             "RealeseDate": "24/02/24",
@@ -20,7 +31,7 @@
             "category": "A14",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/cr14.webp",
             "downloadUrl": "https://github.com/Vlad55432/releases/releases/tag/cr-20240222",
-            "AltdownloadUrl": ""
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A14/crDroidAndroid-14.0-20240222-nashc-v10.2.zip"
         },
         {
             "id": 16,
@@ -42,7 +53,7 @@
             "category": "A13",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/pos.webp",
             "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/intro_pos13",
-            "AltdownloadUrl": ""
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/PixelOS_nashc-13.0-20231216-1529.zip"
         },
         {
             "id": 14,
@@ -96,8 +107,8 @@
             "authorUrl": " ",
             "category": "A13",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/cr.webp ",
-            "downloadUrl": " ",
-            "AltdownloadUrl": ""
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/vlad_cr_a13 ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/crDroidAndroid-13.0-20231005-nashc-v9.9.zip"
         },
         {
             "id": 9,
@@ -156,13 +167,13 @@
         },
         {
             "id": 4,
-            "name": " AlphaDroid 1.8  - UNOFFICIAL | Android 13",
+            "name": " AlphaDroid 1.8  - UNOFFICIAL | Android 13 (Vanilla Version)",
             "RealeseDate": "22/09/23",
             "author": " sukuna_me",
             "authorUrl": "https://t.me/sukuna_me",
             "category": "A13",
             "thumbnailUrl": " https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/alpha.webp ",
-            "downloadUrl": " ",
+            "downloadUrl": " https://github.com/skdev029/Realme_8_Releases/releases/tag/eren_alpha13",
             "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/AlphaDroid-13.0-20230825-nashc-vanilla-v1.8.zip"
         },
         {
@@ -173,10 +184,9 @@
             "authorUrl": " ",
             "category": "A13",
             "thumbnailUrl": " https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/peplus.webp ",
-            "downloadUrl": " ",
+            "downloadUrl": " https://github.com/skdev029/Realme_8_Releases/releases/tag/vlad_peplus_13",
             "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/PixelExperience_Plus_nashc-13.0-20230820-0757-UNOFFICIAL.zip"
         },
-    
         {
             "id": 1,
             "name": "LineageOS 20 - UNOFFICIAL STABLE | Android 13 (Vanilla Version)",
@@ -186,7 +196,7 @@
             "category": "A13",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/los.webp",
             "downloadUrl": "https://github.com/bengris32/releases/releases/tag/3.0",
-            "AltdownloadUrl": ""
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/lineage-20.0-20230613-UNOFFICIAL-nashc.zip"
         }
     ]
 }

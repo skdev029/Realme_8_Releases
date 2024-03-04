@@ -11,7 +11,7 @@
         {
             "name": "Ben",
             "role": "R8 Source Maintainer",
-            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/Ben.jpg",
+            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/Ben.webp",
             "social": {
                 "paypal": "https://paypal.me/bengris32"
             }
@@ -19,7 +19,7 @@
         {
             "name": "HowWof",
             "role": "Maintainer",
-            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/HowWof.jpg",
+            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/HowWof.webp",
             "social": {
                 "telegram": "https://t.me/HowWof"
             }
@@ -37,7 +37,7 @@
         {
             "name": "Eren",
             "role": "Maintainer",
-            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/eren.jpg",
+            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/eren.webp",
             "social": {
                 "telegram": "https://t.me/sukuna_me"
             }
@@ -45,7 +45,7 @@
         {
             "name": "Blood",
             "role": "Maintainer",
-            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/blood.png",
+            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/blood.webp",
             "social": {
                 "telegram": "https://t.me/BloodCorruption"
             }
@@ -53,9 +53,17 @@
         {
             "name": "Sanic",
             "role": "Maintainer",
-            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/sanic.jpg",
+            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/sanic.webp",
             "social": {
                 "telegram": "https://t.me/sanicxt"
+            }
+        },
+        {
+            "name": "alpha",
+            "role": "Maintainer",
+            "picture": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/devs/alpha.webp",
+            "social": {
+                "telegram": "https://t.me/alpha_ripaaah"
             }
         }
     ]
