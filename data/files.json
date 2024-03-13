@@ -1,6 +1,25 @@
 {
     "files": [
         {
+            "id": 16,
+            "name": "RMX3085_C.18_IN_FW_by_SG",
+            "author": "",
+            "authorUrl": "",
+            "category": "firmware",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/firmware/.webp",
+            "downloadUrl": " https://server.nashc.workers.dev/0:/Fimwares/RMX3085_C.18_IN_FW_by_SG.rar"
+        },
+        {
+            "id": 15,
+            "name": "RMX3085_F.10_IN_BY_SG",
+            "author": "",
+            "authorUrl": "",
+            "category": "firmware",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/firmware/.webp",
+            "downloadUrl": " https://server.nashc.workers.dev/0:/Fimwares/RMX3085_F.10_IN_BY_SG.zip"
+        },
+
+        {
             "id": 14,
             "name": "Rollback c16 ",
             "author": "",
