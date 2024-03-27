@@ -1,5 +1,16 @@
 {
     "roms": [
+{
+            "id": 27,
+            "name": "Divest Os-Thirteen - UNOFFICIAL | Android 13 ",
+            "RealeseDate": "02/12/23",
+            "author": "Howoff",
+            "authorUrl": "",
+            "category": "A13",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/eos.webp",
+            "downloadUrl": " ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0/UnkownBulids/DivestOs/divested-20.0-20240214-dos-nashc.zip"
+        },
         {
             "id": 26,
             "name": "/e/OS-Thirteen - UNOFFICIAL | Android 13 ",
