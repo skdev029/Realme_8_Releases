@@ -52,7 +52,7 @@
             "authorUrl": "https://t.me/Fastledx",
             "category": "A14",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/pma14.webp",
-            "downloadUrl": " ",
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/Dimitry_Bulids_PMA14_10.2.1",
             "AltdownloadUrl": " "
         },
         {
@@ -63,8 +63,8 @@
             "authorUrl": "https://t.me/Fastledx",
             "category": "A14",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/pma14.webp",
-            "downloadUrl": " ",
-            "AltdownloadUrl": " "
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/Dimitry_Bulids_PMA14_10.2.1",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Dimity%20Roms/MA14/Matrixx-v10.2.1-Unofficial-nashc-Vanilla-20240121.zip"
         },
         {
             "id": 18,
@@ -85,8 +85,8 @@
             "authorUrl": "https://t.me/Fastledx",
             "category": "A14",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/derpa14.webp",
-            "downloadUrl": " ",
-            "AltdownloadUrl": " "
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/Dimitry_Bulids_DerpFest_A14_1",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Dimity%20Roms/Derpfest_A14_1/DerpFest-14-Community-Beta-nashc-20231228_V4.zip"
         },
         {
             "id": 16,
@@ -107,7 +107,7 @@
             "authorUrl": "https://t.me/Fastledx",
             "category": "A13",
             "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/evox.webp",
-            "downloadUrl": " https://github.com/skdev029/Realme_8_Releases/releases/tag/Dimitry_Bulids_evox_7.9.10",
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/Dimitry_Bulids_evox_7.9.10",
             "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Dimity%20Roms/evolution_nashc-ota-tq3c.230901.001.b1-12060339-community-unsigned.zip"
         },
         {
