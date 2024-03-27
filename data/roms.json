@@ -1,6 +1,28 @@
 {
     "roms": [
         {
+            "id": 26,
+            "name": "/e/OS-Thirteen - UNOFFICIAL | Android 13 ",
+            "RealeseDate": "02/12/23",
+            "author": "ronnz98",
+            "authorUrl": "",
+            "category": "A13",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/eos.webp",
+            "downloadUrl": " ",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/UnkownBulids/Eos/e-1.19.1-t-20240111-UNOFFICIAL-nashc.zip"
+        },
+        {
+            "id": 25,
+            "name": "SuperiorOS-Thirteen - UNOFFICIAL | Android 13 ",
+            "RealeseDate": "02/12/23",
+            "author": "Fastledx",
+            "authorUrl": "https://t.me/sgtriangle",
+            "category": "A13",
+            "thumbnailUrl": "https://raw.githubusercontent.com/skdev029/Realme_8_Releases/main/images/roms/sos.webp",
+            "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/Sg_SOSa13",
+            "AltdownloadUrl": "https://server.nashc.workers.dev/0:/SG_Bulids/SuperiorOS-Thirteen-nashc-COMMUNITY-20231202-1236.zip"
+        },
+        {
             "id": 24,
             "name": "Realme UI 4.0 Debloated f.10",
             "RealeseDate": "Unknown",
@@ -100,7 +122,7 @@
             "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Roms/A13/PixelOS_nashc-13.0-20231216-1529.zip"
         },
         {
-            "id": 15,
+            "id": 16,
             "name": "Evolution X 7.9.10 Android 13 (Gapps Version)",
             "RealeseDate": "16/12/23",
             "author": "Fastledx",
@@ -110,6 +132,7 @@
             "downloadUrl": "https://github.com/skdev029/Realme_8_Releases/releases/tag/Dimitry_Bulids_evox_7.9.10",
             "AltdownloadUrl": "https://server.nashc.workers.dev/0:/Dimity%20Roms/evolution_nashc-ota-tq3c.230901.001.b1-12060339-community-unsigned.zip"
         },
+      
         {
             "id": 14,
             "name": "Bliss V16.9.3  - UNOFFICIAL | Android 13 (Vanilla Version) ",
